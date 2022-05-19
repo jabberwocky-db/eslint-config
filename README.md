@@ -12,7 +12,7 @@
   <a href="https://www.npmjs.com/package/@jabberwocky-db/eslint-config" target="_blank" >
     <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/eslint-config.svg?color=purple&style=for-the-badge"/>
   </a>
-  <a href="https://bundlephobia.com/package/@jabberwocky-db/eslint-config@2.0.1" target="_blank" >
+  <a href="https://bundlephobia.com/package/@jabberwocky-db/eslint-config" target="_blank" >
     <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/eslint-config?style=for-the-badge&color=teal"/>
   </a>
 </p>
